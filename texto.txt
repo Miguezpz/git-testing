@@ -7,4 +7,4 @@ dgsdgsd
 
 I'm learning something new
 
-Este branch es el main
+La línea 10 tendrá conflicto, esta es la rama main.
