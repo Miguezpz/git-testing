@@ -7,8 +7,4 @@ dgsdgsd
 
 I'm learning something new
 
-<<<<<<< HEAD
-La línea 10 tendrá conflicto, esta es la rama main.
-=======
-Aquí sucederá un conflicto, esta es la rama development.
->>>>>>> development
+Esto solo deberia ser visible en el branch llamado development
