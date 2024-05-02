@@ -1,6 +1,5 @@
-Nuevos cambios
+Development:
 
+Main: Checked
 
-VERSIÓN 2.0
-
-MIKE DÍAZ
+Footer:
