@@ -7,5 +7,4 @@ Footer: Checked
 Huaniqueo? :
 
 
-Vamos a ver si este cambio solo se guarda en el branch develop_huani
-Si, funcionó.
+BRANCH Development
