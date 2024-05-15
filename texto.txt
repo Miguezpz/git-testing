@@ -1,11 +1,1 @@
-Development: Checked
-
-Main: Checked
-
-Footer: Checked
-
-Huaniqueo? :
-
-
-Vasdfjsaklfjsadkljf;klasdjf;sd;fe cambio solo se guarda en el branch develop_huani
-Si, funcionó.
+Para triunfar en la vida hay que resistir...
