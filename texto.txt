@@ -2,14 +2,3 @@
 Para triunfar en la vida hay que resistir... y disfrutar el proceso.
 
 
-2. He regresado a la rama main a hacer este cambio, para tener una diferencia con la rama features.
-1. He creado el branch features.
-
-
-3. Nuevo cambio en features.
-
-
-Mensaje para hacer merge.
-\
-
-salkfjslkfjslk;jfkl;sdjfl;sjflksjfl;ksjdf;sjlfjsdl;fjsl;dkfjl;sfj;ls
