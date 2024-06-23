@@ -2,3 +2,7 @@
 Para triunfar en la vida hay que resistir... y disfrutar el proceso.
 
 la filosofia y el arte
+
+Muy bien, combinaremos dos ramas con rebase en un mismo commit.
+------------
+Paso 1
